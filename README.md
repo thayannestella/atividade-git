@@ -1,1 +1,1 @@
-# aatividad-git
+# atividade-git
